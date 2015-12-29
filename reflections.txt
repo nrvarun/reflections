@@ -1,5 +1,13 @@
 This is the Reflections file of Github course by Udacity
 
+- Git Clone
+
 - Git init
 
 - Git log
+
+- Git status
+
+- Git commit
+
+- Git reset
