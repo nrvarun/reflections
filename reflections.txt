@@ -2,12 +2,69 @@ This is the Reflections file of Github course by Udacity
 
 - Git Clone
 
+	: Command for cloning a remote url to the local working directory.
+
 - Git init
+
+	: Command for initializing an empty git repository.
 
 - Git log
 
+	: Command for viewing the logs of commits and changes made to the repository.
+
 - Git status
+
+ 	: Command for viewing the status of files and changes.
 
 - Git commit
 
+	: Command for committing the changes to the staging area.
+
 - Git reset
+
+	: Command for reseting the changes of a commit.
+
+- Git diff
+
+	: Command for diff between the changes of working dir.
+
+- Git diff --staged
+	
+	: Command for diff between the changes of staging area.
+
+- Git add 
+
+	: Command for adding the changed files to staging area.
+
+- Git remote add origin
+
+	: Command for adding a remote repo url to the working directory for push,pull and other commands.
+
+- Git remote
+
+	: Command for viewing the remote repo links added.
+
+- Git stash
+
+	: Command for removing the changes made.
+
+- Git push
+
+	: Command for pushing the changes from staging area to git repository.
+
+- Git pull
+
+	: Command for pulling the latest updates from git repo to working directory.
+
+- Git branch
+
+	: Command for viewing the branches and current branch.
+
+- Git checkout -b 
+
+	: Command for creating a new branch and switching on to the newly created branch.
+
+- Git checkout
+
+	: Command for changing or checking out a  commit or changing to another branch.
+
